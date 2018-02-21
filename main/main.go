@@ -1,7 +1,7 @@
-package Projet
+package main
 
 import (
-	"fmt"
+"fmt"
 	"TheoSysRepProj/Projet/server"
 )
 
