@@ -8,12 +8,12 @@ import (
 	"fmt"
 )
 
-func Start_client() {
+func Start() {
 
 	//--------------------- Connection au serveur -------------------
 
 	//Le client se connecte au serveur avec une adresse IP et un port défini.
-	conn, err := net.Dial("tcp", "172.21.66.101:1337")
+	conn, err := net.Dial("tcp", "127.0.0.1:1337")
 	if err != nil {
 		log.Println("[LOG] Fatal error :",err.Error())
 		os.Exit(1)
