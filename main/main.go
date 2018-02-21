@@ -1,8 +1,9 @@
 package main
 
 import (
-"fmt"
-	"TheoSysRepProj/Projet/server"
+	"fmt"
+	"../Projet/server"
+
 )
 
 func main()  {

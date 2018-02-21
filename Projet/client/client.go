@@ -8,7 +8,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func Start_client() {
 
 	//--------------------- Connection au serveur -------------------
 
