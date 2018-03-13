@@ -8,5 +8,6 @@ et 'JobQueueServer-master-client' dans le dossier 'src' de votre GOPATH.
 Il faut compiler les dossiers 'JobQueueServer-master-server' et 'JobQueueServer-master-client'.
 Pour faire cela, il faut exécuter les commandes suivantes :
 
-  >**go install JobQueueServer-master-server //Compilation du serveur
-  >go install JobQueueServer-master-client //Compilation du client**
+  >__go install JobQueueServer-master-server //Compilation du serveur__
+
+  >__go install JobQueueServer-master-client //Compilation du client__
