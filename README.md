@@ -23,3 +23,4 @@ Pour lancer le programme, il faut executer le fichier "main/runServer.go" pour l
 Si vous avez besoin de plus ample explication par rapport au code veuillez nous contacter
     sur l'adresse e-mail suivante jobqueueserver@help.fake
 
+*NB: Pour la compilation et l'execution veuillez utiliser l'IDE GoLand*
